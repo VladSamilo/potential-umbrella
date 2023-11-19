@@ -1,0 +1,5 @@
+git clone
+git config --local user.email "vladyslav.samilo.tr.2020@lpnu.ua"
+git config --local user.name "Vladyslav Samilo"
+git checkout -b student_samilo_vladyslav_branch
+git push --set- upstream origin student_samilo_vladyslav
